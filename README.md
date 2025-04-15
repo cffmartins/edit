@@ -1,3 +1,5 @@
 # edit
 Testando git e git workflow
-New edit
+New edit.
+
+Esta tudo certo.
